@@ -1,0 +1,17 @@
+name: "🐛 Bug Fix PR"
+
+body:
+  - type: textarea
+    id: problema
+    attributes:
+      label: 🚧 Problema resolvido
+
+  - type: textarea
+    id: solucao
+    attributes:
+      label: 🛠️ Solução aplicada
+
+  - type: textarea
+    id: testes
+    attributes:
+      label: 🧪 Testes realizados

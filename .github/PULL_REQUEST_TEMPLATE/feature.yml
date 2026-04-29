@@ -1,0 +1,17 @@
+name: "🚀 Feature PR"
+
+body:
+  - type: textarea
+    id: feature
+    attributes:
+      label: 💡 Feature implementada
+
+  - type: textarea
+    id: objetivo
+    attributes:
+      label: 🎯 Objetivo
+
+  - type: textarea
+    id: detalhes
+    attributes:
+      label: 🧩 Detalhes técnicos

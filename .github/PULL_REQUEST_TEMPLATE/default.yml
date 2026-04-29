@@ -1,0 +1,46 @@
+name: "Pull Request"
+description: Template padrão para mudanças no projeto
+
+body:
+  - type: textarea
+    id: resumo
+    attributes:
+      label: 📌 O que foi feito?
+      placeholder: |
+        Explique de forma resumida as alterações feitas.
+
+  - type: textarea
+    id: motivo
+    attributes:
+      label: 🎯 Por quê?
+      placeholder: |
+        Qual problema isso resolve ou melhora?
+
+  - type: textarea
+    id: tipo
+    attributes:
+      label: 🧩 Tipo de mudança
+      placeholder: |
+        - [ ] Bug fix
+        - [ ] Feature
+        - [ ] Task / Chore
+        - [ ] Refactor
+
+  - type: textarea
+    id: testes
+    attributes:
+      label: 🧪 Como testar?
+      placeholder: |
+        Passos para validar a mudança.
+
+  - type: textarea
+    id: impacto
+    attributes:
+      label: ⚠️ Impacto
+      placeholder: |
+        O que pode ser afetado?
+
+  - type: textarea
+    id: contexto
+    attributes:
+      label: 🧠 Contexto adicional

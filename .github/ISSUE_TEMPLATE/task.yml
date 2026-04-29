@@ -1,0 +1,45 @@
+name: 🧱 Task / Chore
+description: Tarefa técnica, manutenção ou melhoria interna
+title: "[TASK] "
+labels: ["chore"]
+
+body:
+  - type: textarea
+    id: descricao
+    attributes:
+      label: 🧩 Descrição da tarefa
+      description: Explique claramente o que precisa ser feito
+      placeholder: |
+        Descreva a tarefa técnica ou ajuste necessário.
+
+  - type: textarea
+    id: objetivo
+    attributes:
+      label: 🎯 Objetivo
+      description: Por que essa tarefa existe?
+      placeholder: |
+        Qual problema interno isso resolve ou melhora?
+
+  - type: textarea
+    id: escopo
+    attributes:
+      label: 📦 Escopo da mudança
+      description: O que está incluso na tarefa
+      placeholder: |
+        - Ajustar configuração X
+        - Refatorar módulo Y
+        - Atualizar dependências
+
+  - type: textarea
+    id: impacto
+    attributes:
+      label: ⚠️ Impacto esperado
+      description: O que pode ser afetado por essa mudança?
+      placeholder: |
+        Ex: build, performance, UI, etc.
+
+  - type: textarea
+    id: contexto
+    attributes:
+      label: 🧠 Contexto adicional
+      description: Links, prints ou observações

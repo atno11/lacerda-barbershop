@@ -1,0 +1,17 @@
+name: "🧱 Chore PR"
+
+body:
+  - type: textarea
+    id: tarefa
+    attributes:
+      label: 🧩 O que foi feito
+
+  - type: textarea
+    id: motivo
+    attributes:
+      label: 🎯 Por quê
+
+  - type: textarea
+    id: impacto
+    attributes:
+      label: ⚠️ Impacto

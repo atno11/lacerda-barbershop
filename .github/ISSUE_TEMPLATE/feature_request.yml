@@ -1,0 +1,45 @@
+name: 🚀 Feature Request
+description: Sugira uma nova funcionalidade ou melhoria
+title: "[FEATURE] "
+labels: ["enhancement"]
+
+body:
+  - type: textarea
+    id: descricao
+    attributes:
+      label: 💡 Descrição da funcionalidade
+      description: Explique claramente a ideia da feature.
+      placeholder: |
+        Descreva a funcionalidade que você gostaria de adicionar.
+
+  - type: textarea
+    id: problema
+    attributes:
+      label: 🎯 Problema que resolve
+      description: Qual problema essa feature resolve?
+      placeholder: |
+        Explique a dor ou necessidade atual.
+
+  - type: textarea
+    id: solucao
+    attributes:
+      label: 🛠️ Solução proposta
+      description: Como você imagina que isso funcionaria?
+      placeholder: |
+        Explique sua ideia de implementação ou comportamento.
+
+  - type: textarea
+    id: alternativas
+    attributes:
+      label: 🔄 Alternativas consideradas
+      description: Existe outra forma de resolver isso?
+      placeholder: |
+        Liste outras abordagens possíveis, se houver.
+
+  - type: textarea
+    id: contexto
+    attributes:
+      label: 🧠 Contexto adicional
+      description: Referências, exemplos ou imagens
+      placeholder: |
+        Links, prints ou referências úteis.

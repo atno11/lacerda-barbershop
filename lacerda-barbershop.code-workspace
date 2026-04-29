@@ -1,0 +1,36 @@
+{
+  "folders": [
+    {
+      "path": ".",
+    },
+    {
+      "name": "🌐 Landing",
+      "path": "apps/landing",
+    },
+    {
+      "name": "🎨 UI",
+      "path": "packages/ui",
+    },
+    {
+      "name": "⚙️ ESLint Config",
+      "path": "packages/eslint-config",
+    },
+    {
+      "name": "⚙️ Typescript Config",
+      "path": "packages/typescript-config",
+    },
+    {
+      "name": "⚙️ Github",
+      "path": ".github",
+    },
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.git": true,
+      "**/.svn": true,
+      "**/.hg": true,
+      "**/.DS_Store": true,
+      "**/Thumbs.db": true,
+    },
+  },
+}

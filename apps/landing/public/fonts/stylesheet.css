@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'Akzentica 4F';
+    src: url('Akzentica4FLight.eot');
+    src: local('Akzentica 4F Light'), local('Akzentica4FLight'),
+        url('Akzentica4FLight.eot?#iefix') format('embedded-opentype'),
+        url('Akzentica4FLight.woff2') format('woff2'),
+        url('Akzentica4FLight.woff') format('woff'),
+        url('Akzentica4FLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Akzentica 4F';
+    src: url('Akzentica4FSemiBold.eot');
+    src: local('Akzentica 4F SemiBold'), local('Akzentica4FSemiBold'),
+        url('Akzentica4FSemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Akzentica4FSemiBold.woff2') format('woff2'),
+        url('Akzentica4FSemiBold.woff') format('woff'),
+        url('Akzentica4FSemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Akzentica 4F';
+    src: url('Akzentica4F.eot');
+    src: local('Akzentica 4F'), local('Akzentica4F'),
+        url('Akzentica4F.eot?#iefix') format('embedded-opentype'),
+        url('Akzentica4F.woff2') format('woff2'),
+        url('Akzentica4F.woff') format('woff'),
+        url('Akzentica4F.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Akzentica 4F';
+    src: url('Akzentica4F-Bold.eot');
+    src: local('Akzentica 4F Bold'), local('Akzentica4F-Bold'),
+        url('Akzentica4F-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Akzentica4F-Bold.woff2') format('woff2'),
+        url('Akzentica4F-Bold.woff') format('woff'),
+        url('Akzentica4F-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Akzentica 4F';
+    src: url('Akzentica4FExtraBold.eot');
+    src: local('Akzentica 4F ExtraBold'), local('Akzentica4FExtraBold'),
+        url('Akzentica4FExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('Akzentica4FExtraBold.woff2') format('woff2'),
+        url('Akzentica4FExtraBold.woff') format('woff'),
+        url('Akzentica4FExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Akzentica 4F';
+    src: url('Akzentica4FMedium.eot');
+    src: local('Akzentica 4F Medium'), local('Akzentica4FMedium'),
+        url('Akzentica4FMedium.eot?#iefix') format('embedded-opentype'),
+        url('Akzentica4FMedium.woff2') format('woff2'),
+        url('Akzentica4FMedium.woff') format('woff'),
+        url('Akzentica4FMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Akzentica 4F';
+    src: url('Akzentica4F-BoldItalic.eot');
+    src: local('Akzentica 4F Bold Italic'), local('Akzentica4F-BoldItalic'),
+        url('Akzentica4F-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Akzentica4F-BoldItalic.woff2') format('woff2'),
+        url('Akzentica4F-BoldItalic.woff') format('woff'),
+        url('Akzentica4F-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Akzentica 4F';
+    src: url('Akzentica4FMedium-Italic.eot');
+    src: local('Akzentica 4F Medium Italic'), local('Akzentica4FMedium-Italic'),
+        url('Akzentica4FMedium-Italic.eot?#iefix') format('embedded-opentype'),
+        url('Akzentica4FMedium-Italic.woff2') format('woff2'),
+        url('Akzentica4FMedium-Italic.woff') format('woff'),
+        url('Akzentica4FMedium-Italic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Akzentica 4F';
+    src: url('Akzentica4FExtraBold-Italic.eot');
+    src: local('Akzentica 4F ExtraBold Italic'), local('Akzentica4FExtraBold-Italic'),
+        url('Akzentica4FExtraBold-Italic.eot?#iefix') format('embedded-opentype'),
+        url('Akzentica4FExtraBold-Italic.woff2') format('woff2'),
+        url('Akzentica4FExtraBold-Italic.woff') format('woff'),
+        url('Akzentica4FExtraBold-Italic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Akzentica 4F';
+    src: url('Akzentica4F-Italic.eot');
+    src: local('Akzentica 4F Italic'), local('Akzentica4F-Italic'),
+        url('Akzentica4F-Italic.eot?#iefix') format('embedded-opentype'),
+        url('Akzentica4F-Italic.woff2') format('woff2'),
+        url('Akzentica4F-Italic.woff') format('woff'),
+        url('Akzentica4F-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Akzentica 4F';
+    src: url('Akzentica4FSemiBold-Italic.eot');
+    src: local('Akzentica 4F SemiBold Italic'), local('Akzentica4FSemiBold-Italic'),
+        url('Akzentica4FSemiBold-Italic.eot?#iefix') format('embedded-opentype'),
+        url('Akzentica4FSemiBold-Italic.woff2') format('woff2'),
+        url('Akzentica4FSemiBold-Italic.woff') format('woff'),
+        url('Akzentica4FSemiBold-Italic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Akzentica 4F';
+    src: url('Akzentica4FLight-Italic.eot');
+    src: local('Akzentica 4F Light Italic'), local('Akzentica4FLight-Italic'),
+        url('Akzentica4FLight-Italic.eot?#iefix') format('embedded-opentype'),
+        url('Akzentica4FLight-Italic.woff2') format('woff2'),
+        url('Akzentica4FLight-Italic.woff') format('woff'),
+        url('Akzentica4FLight-Italic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
