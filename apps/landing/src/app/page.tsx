@@ -1,7 +1,9 @@
+import AppHeader from './components/header/header';
+
 export default function Home() {
   return (
-    <div className='w-dvw h-dvh flex items-center justify-center font-styled'>
-      Lacerda Barbershop
+    <div className='min-h-screen'>
+      <AppHeader />
     </div>
   );
 }
